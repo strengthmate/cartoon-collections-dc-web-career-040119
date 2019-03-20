@@ -4,6 +4,13 @@ def roll_call_dwarves(dwarf_names)
       puts "Taking out #{apple}"
       apples_taken_out += 1
     end
+
+  dwarf_names.each_with_index { |item, index|
+  puts #{index} #{item}
+}
+h
+    
+    
 end
 
 def summon_captain_planet# code an argument here
