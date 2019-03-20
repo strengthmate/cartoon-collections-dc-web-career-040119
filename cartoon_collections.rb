@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarf_names)
-  arr = [1..dwarf_names.length]
-  
+  arr = [1..dwarf_names.size]
+    
 end
 
 def summon_captain_planet# code an argument here
