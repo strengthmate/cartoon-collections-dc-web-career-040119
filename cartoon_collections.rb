@@ -1,6 +1,9 @@
 def roll_call_dwarves(dwarf_names)
   arr = [1..dwarf_names.size]
-    
+    basket.each do |apple|
+      puts "Taking out #{apple}"
+    apples_taken_out += 1
+end
 end
 
 def summon_captain_planet# code an argument here
