@@ -1,14 +1,7 @@
 def roll_call_dwarves(dwarf_names)
-  arr = [1..dwarf_names.size]
-    basket.each do |i|
-      puts "Taking out #{apple}"
-      apples_taken_out += 1
-    end
-
   dwarf_names.each_with_index { |item, index|
-  puts #{index} #{item}
-}
-h
+  puts "#{index} #{item}"}
+
     
     
 end
