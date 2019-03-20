@@ -16,6 +16,12 @@ end
  
 change_nums(cool_nums)
 
+
+a = [ "a", "b", "c", "d" ]
+a.collect {|x| x + "!"}      
+a.map.with_index {|x, i| x * i}
+a       
+
   
   
 end
